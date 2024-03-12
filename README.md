@@ -85,6 +85,7 @@ Sim_default.plot_fig_final()
 
 ### Contributors:
 - Cristian Castillo    (Universidad Austral de Chile)
+- Ella Matamala    (Universidad Austral de Chile)
 - Diego Becerra    (Universidad de Valparaíso)
 - Patricio Orio    (Universidad de Valparaíso)
 - Sebastián Braüchi    (Universidad Austral de Chile)
