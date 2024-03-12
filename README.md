@@ -84,12 +84,11 @@ Sim_default.plot_fig_final()
 ```
 
 ### Contributors:
-- Cristian
-- DiegoA
-- POrio
+- Cristian Castillo    (Universidad Austral de Chile)
+- Diego Becerra    (Universidad de Valparaíso)
+- Patricio Orio    (Universidad de Valparaíso)
+- Sebastián Braüchi    (Universidad Austral de Chile)
 
 ### License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Acknowledgments:
-Special thanks to [insert names here] for their contributions to this project.
